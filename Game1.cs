@@ -120,8 +120,8 @@ namespace TD
             _spriteBatch.Draw(_pixel, new Rectangle(0, 380, 800, 100), Color.DarkGray);
 
             // towers
-            _spriteBatch.Draw(_pixel, new Rectangle(0, 280, 60, 100), Color.Red); // Враг
-            _spriteBatch.Draw(_pixel, new Rectangle(740, 280, 60, 100), Color.Green); // Игрок
+            _spriteBatch.Draw(_pixel, new Rectangle(0, 280, 60, 100), Color.Red); // enemy
+            _spriteBatch.Draw(_pixel, new Rectangle(740, 280, 60, 100), Color.Green); // player
 
             // units
             foreach (var unit in _units)

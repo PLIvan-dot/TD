@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
 
-namespace TD
+namespace TowerDefense
 {
     public enum Side { Player, Enemy }
 

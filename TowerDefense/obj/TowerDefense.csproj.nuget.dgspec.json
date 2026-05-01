@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj": {}
+    "C:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj": {
+    "C:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj",
+        "projectUniqueName": "C:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj",
         "projectName": "TowerDefense",
-        "projectPath": "c:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj",
+        "projectPath": "C:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\TowerDefense.csproj",
         "packagesPath": "C:\\Users\\Владелец\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\obj\\",
+        "outputPath": "C:\\Users\\Владелец\\TD\\TD\\TD\\TowerDefense\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владелец\\AppData\\Roaming\\NuGet\\NuGet.Config"

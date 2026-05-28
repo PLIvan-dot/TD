@@ -167,7 +167,7 @@ namespace TowerDefense
             GraphicsDevice.Clear(Color.CornflowerBlue);
             _spriteBatch.Begin();
 
-            // ground
+            // ground.
             _spriteBatch.Draw(_pixel, new Rectangle(0, 380, 800, 100), Color.DarkOliveGreen);
 
             // towers (height depends on hp + visual effect)
